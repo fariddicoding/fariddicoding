@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Farid Alfajr Muhlis**
 
-Saya seorang **Peserta** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Peserta** di [Dicoding](https://www.dicoding.com/)
 
 Saya mengikuti course Front-end Back-end Web Developer di Dicoding
 
